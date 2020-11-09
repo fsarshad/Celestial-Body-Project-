@@ -112,7 +112,7 @@ public class LinkedList<T> implements List<T> {
     }
 
 
-    // LinkedList is changed into a string representation
+    // Used tostring method 
     public String toString() {
         StringBuilder s =  new StringBuilder("[");
 
