@@ -1,4 +1,4 @@
-# Assoignment1_NbodyProb
+# N-Body Problem 
 
 Before running the program please "update the file path" in the main.java
 
